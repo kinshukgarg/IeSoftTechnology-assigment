@@ -2,7 +2,7 @@
 
 
 function StringChallenge(str) {
-    // __define-ocg__: Initialize the result and a variable to keep track of the current character count
+
     var varOcg = '';
     var count = 1;
 
